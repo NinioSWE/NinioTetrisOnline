@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: fab8ef726acc92349bafacf3eaf64de3
+  - enabled: 1
+    path: Assets/Scenes/Rooms.unity
+    guid: 8c65f126df4ac82479790a3f886fe12a
+  - enabled: 1
+    path: Assets/Scenes/InRoom.unity
+    guid: edcbea03f8ee4d341b6cfe1dd6c89bdc
+  - enabled: 1
+    path: Assets/Scenes/Tetris.unity
+    guid: de22b5fe3b2a3ba4ab6ac31616a07521
+  - enabled: 1
+    path: Assets/Scenes/FPS.unity
+    guid: b71c26801df2c604aa4bab96ec14c753
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: f40be17e9faab464bbcdad8e984466ab
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c0366f33c5ff344d98f22499263e141
+  m_configObjects: {}
